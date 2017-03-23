@@ -15,7 +15,7 @@
 execPath="/srv/www/www.newsite.com"
 newPath=$execPath"/files"
 
-# drush befehle müssen im der neu angelegten vhost/drupal Verzeichnis ausgeführt damit sie wirksam werden 
+# drush befehle müssen in der neu angelegten vhost/drupal Verzeichnis ausgeführt werden damit sie wirksam werden 
 cd $execPath
 
 # drupal online
