@@ -2,7 +2,7 @@
 
 #    Aysad Kozanoglu
 #
-# DRUPAL vhost erweitung
+# DRUPAL vhost erweiterung
 #
 #  @ Änderung der Wartungmodus auf ONLINE
 #  @ Setzen der public path auf den neuen Pfad (Pfad des öffentlichen Dateisystems)
