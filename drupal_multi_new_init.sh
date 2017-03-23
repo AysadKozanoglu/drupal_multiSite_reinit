@@ -12,7 +12,7 @@
 # Stand 23.03.2017
 #
 
-execPath="/srv/www/multisite/site/sites/klon.adelphi.de"
+execPath="/srv/www/www.newsite.com"
 newPath=$execPath"/files"
 
 # drush befehle müssen im der neu angelegten vhost/drupal Verzeichnis ausgeführt damit sie wirksam werden 
